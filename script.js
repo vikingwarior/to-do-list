@@ -258,7 +258,7 @@ const createNewTaskBtn = (liReference) => {
 
 const createBtn = (btnLabel, colorType) => {
   let btn = document.createElement("button");
-  btn.classList = `btn btn-outline-${colorType} border border-0 ms-auto`;
+  btn.classList = `btn btn-outline-${colorType} border-0 ms-auto`;
   btn.innerHTML = btnLabel;
   return btn;
 };
