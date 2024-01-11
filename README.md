@@ -2,6 +2,9 @@
 
 A simple to-do-list to manage your daily tasks
 
+## Project Link
+[Click Here to see the Project](https://vikingwarior.github.io/to-do-list/)
+
 ## Features
 
  - Tasks are created and stored in **localStorage** to survive refresh
